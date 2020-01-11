@@ -1,12 +1,12 @@
-# template_1.0
+# template_1.0 vue js (Andrei vivdenko)
+## Template with sass mixins
 
 ## Project setup
 
 npm install
 
 ### Compiles and hot-reloads for development
-np
-m run serve
+npm run serve
 
 
 ### Compiles and minifies for production
