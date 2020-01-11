@@ -1,18 +1,10 @@
 # template_1.0 vue js (Andrei vivdenko)
-## Template with sass mixins
 
-## Project setup
 
-npm install
+### Project setup and Compiles and hot-reloads for development
 
-### Compiles and hot-reloads for development
-npm run serve
+npm install & npm run serve
 
 
 ### Compiles and minifies for production
-npm 
-run build
-
-##
-# Customize configuration
-See [Configuration Reference](https://cli.vuejs.o
+npm run build
