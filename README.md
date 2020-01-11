@@ -1,4 +1,4 @@
-# template_1.0 vue js (Andrei vivdenko)
+# template_1.0 vue js
 
 
 ### Project setup and Compiles and hot-reloads for development
